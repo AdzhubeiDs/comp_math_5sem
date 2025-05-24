@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1729610489 source:c:\users\adsd2\codeblocks\interpolate\task.c
+
+1729611917 source:c:\users\adsd2\codeblocks\interpolate\main.cpp
+	<iostream>
+	<array>
+	<fstream>
+	<cmath>
+	<iomanip>
+
